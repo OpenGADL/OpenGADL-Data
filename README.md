@@ -16,9 +16,9 @@ OpenGADL_Data自动化数据标注平台是为AI 应用开发者打造的高效�
 
 ## 软件架构
 
-![软件架构](https://raw.githubusercontent.com/MagnetoXxz/My_pictures/main/Data_picture/202310251655671.png)
+![软件架构](https://raw.githubusercontent.com/OpenGADL/OpenGADL-Data/main/picture/202310251655671.png)
 
-![软件架构_2](https://raw.githubusercontent.com/MagnetoXxz/My_pictures/main/Data_picture/202310251655566.png)
+![软件架构_2](https://raw.githubusercontent.com/OpenGADL/OpenGADL-Data/main/picture/202310251655566.png)
 
 ## 软件安装
 
